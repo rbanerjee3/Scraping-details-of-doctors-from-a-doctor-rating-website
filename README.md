@@ -1,4 +1,4 @@
-# Web-Scraping Details of Doctors available on Doctor Rating Website called RateMDs.
+# Web-Scraping details of Doctors available on doctor rating website
 
 **Website to scrape:** https://www.ratemds.com/
 
