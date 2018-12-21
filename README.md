@@ -1,10 +1,11 @@
-# Web-Scraping details of Doctors available on a doctor rating website
+# Web-Scraping details of doctors from a doctor rating website
 
-**Website to scrape:** https://www.ratemds.com/
+**Website to scrape:** 
+https://www.ratemds.com/
 
 **Motivation:**
 
-After finishing my basics (Statistics, SQL and Python), I was quite excited to jump into the world of Machine Learning. Reading about the cool projects on GitHub every day, I always used to wonder, when will I start doing such things. So, as usual like others, I completed a MOOC on Machine Learning and started searching for a dataset to get my hands dirty. Meanwhile, one fine day, I came across this article: https://www.kdnuggets.com/2018/11/get-hired-as-data-scientist.html. This article changed the way I looked at Data-Science projects and what attracted me the most in that article was the last point:
+After finishing my basics (Statistics, SQL and Python), I was quite excited to jump into the world of Machine Learning. Reading about the cool projects on GitHub every day, I always used to wonder, when will I start doing such things. So, as usual like others, I completed a MOOC on Machine Learning and started searching for a dataset to get my hands dirty. But, one fine day, I came across this article: https://www.kdnuggets.com/2018/11/get-hired-as-data-scientist.html. This article changed the way I looked at Data-Science projects and what attracted me the most in that article was the last point:
 
 _"Do things that seem crazy. Everyone goes to the UCI repository, or uses some stock dataset (yawn) to build their project. Don’t do that. Learn how to use a web scraping library, or some under-appreciated API to build your own, custom dataset. Data is hard to come by, and companies often need to rely on their engineers to get it for them. Your goal should be to come across as the kind of data science-obsessed lunatic who will build your own goddamn dataset if that’s what it takes to get the job done."_
 
