@@ -1,2 +1,2 @@
 # Scraping details of doctors from a doctor rating website
-This is the part of my graduate reasearch project which is about showing the data quality issues present on the Doctor Rating website [Ratemds](https://www.ratemds.com). But, in order to show these data quality issues we first need the 'DATA' and in this case the only way to get the data is to scrape it from the website. This is called web-scraping.
+This was part of my graduate reasearch project which is about showing the data quality issues present in the Doctor Rating website [Ratemds](https://www.ratemds.com). But, in order to show these data quality issues, we first need the 'DATA' and in this case the only way to get the data is to scrape it from the website. This is called web-scraping.
